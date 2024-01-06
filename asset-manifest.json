@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RounakSharma19/Temperature-Converter/static/css/main.f96f07a4.css",
+    "main.js": "/RounakSharma19/Temperature-Converter/static/js/main.153efb3f.js",
+    "static/js/787.123e697f.chunk.js": "/RounakSharma19/Temperature-Converter/static/js/787.123e697f.chunk.js",
+    "index.html": "/RounakSharma19/Temperature-Converter/index.html",
+    "main.f96f07a4.css.map": "/RounakSharma19/Temperature-Converter/static/css/main.f96f07a4.css.map",
+    "main.153efb3f.js.map": "/RounakSharma19/Temperature-Converter/static/js/main.153efb3f.js.map",
+    "787.123e697f.chunk.js.map": "/RounakSharma19/Temperature-Converter/static/js/787.123e697f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f96f07a4.css",
+    "static/js/main.153efb3f.js"
+  ]
+}
